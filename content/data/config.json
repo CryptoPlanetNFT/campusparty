@@ -1,0 +1,118 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.png",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-d",
+        "secondaryColors": "colors-d",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Faça uma doação",
+                "url": "https://app.benfeitoria.com/projeto/mais1code",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Seja Mentor",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCgQfx3eFcgCIvw_MrjFMexBaW7IqQzkey3B4m5H0sbdk26w/viewform",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Connect Wallet",
+                "altText": "Connect Wallet",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        },
+        "logo": {
+            "url": "/images/Screenshot_13-removebg-preview.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "type": "ImageBlock"
+        },
+        "title": "Ma"
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-c",
+        "title": "Diga olá",
+        "contacts": {
+            "title": "Contact details",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Feito com ❤️ por [Coflow ](https://coflow.com.br/)\n",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Sobre",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "\nContate-Nos",
+                "url": "mailto:contato@mais1code.com.br",
+                "altText": ""
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "/",
+                "icon": "instagram"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "defaultMetaTags": []
+}

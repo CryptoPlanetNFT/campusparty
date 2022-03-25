@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Diego",
+    "lastName": "Alcantara",
+    "role": "Desenvolvedor Blockchain",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/Design sem nome.png",
+        "altText": "Hilary Ouse photo"
+    }
+}
