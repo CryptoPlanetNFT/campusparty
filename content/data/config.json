@@ -30,8 +30,8 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Connect Wallet",
-                "altText": "Connect Wallet",
+                "label": "Conectar Carteira",
+                "altText": "Conectar Carteira",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
